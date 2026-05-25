@@ -13,7 +13,7 @@ work is on non-invasive techniques. We aim to build a model capable
 of predicting text from brain signals. Our model is an open vocabulary
 magnetoencephalography-to-text decoding model. We utilized MEG signals from
 the MEG-MASC dataset, one of the few datasets containing high-quality signals
-thathavebeenusedinawidevarietyofstudies. Weconsideredonlytherecordings
+that have been used in a wide variety of studies. We considered only the recordings
 of the first 23 subjects out of the 30 contained in the dataset. Each subject was
 engaged in listening tasks. Before the experiment, all participants listened to 20
 seconds of each of the speaking voices to familiarize themselves with the voices.
