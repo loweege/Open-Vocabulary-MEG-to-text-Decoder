@@ -1,3 +1,5 @@
+The following is the project I completed for my bachelor's thesis.
+
 # Open-Vocabulary-MEG-to-text-Decoder
 
 Our brain constantly produces signals when we speak, listen to music, watch a
