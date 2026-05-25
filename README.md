@@ -18,7 +18,7 @@ of the first 23 subjects out of the 30 contained in the dataset. Each subject wa
 engaged in listening tasks. Before the experiment, all participants listened to 20
 seconds of each of the speaking voices to familiarize themselves with the voices.
 To ensure that the participants were attentive to the stories, they answered a
-two-alternativeforced-choicequestionrelatedtothestorycontentevery3minutes
+two-alternative forced-choice question related to the story content every 3 minutes
 by pressing a button. Our approach involves a Sequence-to-Sequence model
 composed of both an Encoder, which is a Transformer-based Encoder supported
 by a Convolutional Block, and a Decoder, which is a T5 Transformer-based
