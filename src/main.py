@@ -4,14 +4,6 @@ from lightning.pytorch.callbacks import ModelCheckpoint
 from models.brain_translator_trainer import BrainTranslator_trainer
 from dataset.load_dataset import load_dataset
 
-
-''' 
-TODO:
-    - add conversion from token ids to string
-    - add evaluation metrics on test set
-
-'''
-
 def main():    
     train = False
     config = {
